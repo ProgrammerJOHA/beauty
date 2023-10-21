@@ -9,6 +9,7 @@ import { GeneralBtn } from "./tools/Tools";
 function App() {
   return (
     <div className="App">
+      {/* 100 qator kod yozildi */}
       {/* Navbar qismi */}
       <Navbar />
       <Section1 />
